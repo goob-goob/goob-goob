@@ -6,7 +6,7 @@
         - HTML
         - JS
 
-- 📫 How to reach me ...
+<!-- - 📫 How to reach me ... -->
 
 <!---
 goob-goob/goob-goob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
