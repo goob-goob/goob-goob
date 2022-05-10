@@ -1,16 +1,11 @@
-- 👋 Hi, I’m @goob-goob
+- 👋 Hi, I’m @goob-goob, AKA Gabriel (Gabe) Miller
 - 👀 I’m interested in ...
       * Networking
       * Coding
         - Python
         - HTML
-        - JAVA
         - JS
-        - C++/C#
-- 🌱 I’m currently learning ...
-      * Python
-      * CCNA
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...
 
 <!---
