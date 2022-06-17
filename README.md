@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @goob-goob, AKA Gabriel (Gabe) Miller
-- 👀 I’m interested in ...
-      * Coding
-        - Full-stack web development (HTML/CSS/JS, NODE/MONGODB, REACT)
-        - Possibly learning python, along with getting back to C++ or maybe C#
-      * Collaborating 
-        - Meeting new people
-        - Learning new things
-        - Making new friends 
+- 👋 Hi, I’m @goob-goob, AKA Gabriel (Gabe) Miller<br>
+- 👀 I’m interested in ...<br>
+     - Coding<br>
+           - Full-stack web development (HTML/CSS/JS, Node/MongoDB, React)<br>
+           - Possibly learning python, along with getting back to C++ or maybe C#<br>
+     - Collaborating<br>
+           - Meeting new people<br>
+           - Learning new things<br>
+           - Making new friends<br>
         
 
 <!-- - 📫 How to reach me ... -->
