@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...<br>
      - Coding<br>
            - Full-stack web development (HTML/CSS/JS, Node/MongoDB, React)<br>
-           - Possibly learning python, along with getting back to C++ or maybe C#<br>
+           - Possibly learning other stacks and technologies (either for fun or work)
      - Collaborating<br>
            - Meeting new people<br>
            - Learning new things<br>
