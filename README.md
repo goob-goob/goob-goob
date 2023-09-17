@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goob-goob, AKA Gabriel (Gabe) Miller<br>
+- 👋 Hi, I’m @goob-goob<br>
 - 👀 I’m interested in ...<br>
      - Coding<br>
            - Full-stack web development (HTML/CSS/JS, Node/MongoDB, React)<br>
